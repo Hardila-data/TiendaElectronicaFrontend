@@ -7,4 +7,3 @@ Para el frontend se utliza el framework Nextjs, haciendo uso de los modulos css 
   <li><span>Nextjs</span> https://nextjs.org/</li>
   <li><span>Flexbox</span> https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox </li>
 </ul>
-
